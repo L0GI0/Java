@@ -1,0 +1,12 @@
+
+public class WhichRowHasTheLargestSum {
+	public static void main(String[] args) {
+		int maxRow = 0;
+		int indexOfMaxRow = 0;
+		
+		//Get sum of the first row in maxRow
+		for (int column = 0 column < matrix[0].length; column++) {
+			maxRow += matrix[0][column];
+		}
+	}
+}

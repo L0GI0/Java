@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>log4j</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/WriteLogs.java</name>
+			<type>1</type>
+			<locationURI>PARENT-4-PROJECT_LOC/Desktop/Java%20Project/The%20use%20of%20LOG4J%20part2/src/tomek/logger/WriteLogs.java</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>

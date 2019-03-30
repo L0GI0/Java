@@ -1,0 +1,11 @@
+import java.util.Date;
+import java.text.SimpleDateFormat; 
+
+public class Ex2CurrentMonthName {
+
+	public static void main(String[] args) {
+		Date date = new Date();
+		
+	}
+
+}

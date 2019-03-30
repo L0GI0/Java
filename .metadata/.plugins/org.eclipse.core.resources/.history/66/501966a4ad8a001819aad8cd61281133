@@ -1,0 +1,7 @@
+import java.util.Scanner;
+public class TestArea {
+	public static void main(String[] args) {
+		System.out.printf("amount is %f %e\n", 32.32,32.32);
+		System.out.printf("amount is %5.2%% %5.4e\n", 32.327, 32.32);
+	}
+}

@@ -1,0 +1,9 @@
+import java.util.Scanner;
+public class TestArea {
+
+	public static void main(String[] args) {
+	  Scanner import = new Scanner(System.in);
+		
+	}
+
+}

@@ -1,0 +1,14 @@
+import java.io.*;
+
+public class CopyingAFile {
+
+	public static void main(String[] args) throws FileNotFoundException {
+		
+		Reader source = new FileReader(args[2]);
+		
+		char ch;
+		while((ch = source.read()))
+
+	}
+
+}

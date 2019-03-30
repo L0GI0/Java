@@ -1,0 +1,24 @@
+import java.util.Scanner;
+public class TestArea {
+
+	public static void main(String[] args) {
+		String s1 = " Welcome ";
+		String s2 = " welcome ";
+		boolean isEqual = s1.equals(s2);
+		isEqual = s1.equalsIgnoreCase(s2);
+		int x = s1.compareTo(s2);
+		x = s1.compareToIgnoreCase(s2);
+		boolean b = s1.startsWith("AAA");
+		b = s1.endsWith("AAA");
+		x = s1.length();
+		char y = s1.charAt(0);
+		String s3 = s1.concat(s2);
+		s3 = s1.substring(1);
+		s3 = s1.substring(1, 4);
+		
+		
+		
+		
+	}
+
+}

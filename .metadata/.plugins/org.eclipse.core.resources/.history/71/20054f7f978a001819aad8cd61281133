@@ -1,0 +1,10 @@
+import java.util.Scanner;
+public class TestArea {
+
+	public static void main(String[] args) {
+	  String message = "Welcome to Java";
+	  message = message.substring(0,11); 
+	  System.out.println(message + "HTML");
+	}
+
+}

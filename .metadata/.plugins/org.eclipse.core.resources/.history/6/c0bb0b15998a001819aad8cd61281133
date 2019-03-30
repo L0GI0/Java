@@ -1,0 +1,16 @@
+import java.util.Scanner;
+public class TestArea {
+
+	public static void main(String[] args) {
+		//Converting a numeric string into a numeber
+		String intString = "123";
+		String doubleString = "1.0 2.0 3.0";
+		int intValue = Integer.parseInt(intString);
+		double doubleValue = Double.parseDouble(intString);
+		System.out.print(intValue + " " + doubleValue + " ");
+		//Converting a number into a string 
+		String s = intValue + ""; 
+		System.out.println(s);
+	}
+
+}

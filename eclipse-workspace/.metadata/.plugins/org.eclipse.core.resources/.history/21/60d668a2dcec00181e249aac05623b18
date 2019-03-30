@@ -1,0 +1,12 @@
+import java.util.Date;
+public class Ex2VurrentMonthNameArray {
+
+	public static void main(String[] args) {
+		private static String months[] = { "Januar","Februar","Mars","April","Mai","Juni","Juli","August","September",
+				"Oktober", "November", "Desember" };
+		
+		
+
+	}
+
+}

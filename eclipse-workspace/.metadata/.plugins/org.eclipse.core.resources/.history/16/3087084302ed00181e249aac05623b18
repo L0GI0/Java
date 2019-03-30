@@ -1,0 +1,13 @@
+import java.io.*;
+
+public class CopyingAFile {
+
+	public static void main(String[] args) {
+		
+		Reader source = new Reader(new FileReader[args[2]);
+		
+		
+
+	}
+
+}

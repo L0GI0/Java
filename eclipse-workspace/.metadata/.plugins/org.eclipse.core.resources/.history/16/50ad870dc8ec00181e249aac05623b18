@@ -1,0 +1,33 @@
+import java.util.Date;
+import java.text.SimpleDateFormat; 
+
+public class Ex2CurrentMonthName {
+
+	public static void main(String[] args) {
+		Date date = new Date();
+		SimpleDateFormat formatObject = new SimpleDateFormat("dd.MM.yyyy HH:mm:ss");
+		System.out.println(formatObject.format(date));
+		int day = 1 + date.getDay();
+		switch(day) {
+		case 1: 
+			System.out.println("January");
+			break;
+		case 2:
+			System.out.println("February");
+			break;
+		case 3:
+			System.out.println("March");
+			break;
+		case 4:
+			System.out.println("April");
+			break;
+		case 5:
+			System.out.println("May");
+			break;
+			
+			
+		}
+		
+	}
+
+}

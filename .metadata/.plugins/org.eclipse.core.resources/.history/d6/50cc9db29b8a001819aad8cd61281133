@@ -1,0 +1,16 @@
+import java.util.Scanner;
+public class TestArea {
+
+	public static void main(String[] args) {
+		//Converting a numeric string into a numeber
+		String intString = "123";
+		String doubleString = "1.0 2.0 3.0";
+		
+	
+		String concatenated1 = intString.concat(doubleString);
+		String concatenated2 = intString + " " + doubleString;
+		System.out.println("Concatenated1: " + concatenated1);
+		System.out.println("Concatenated2: " + concatenated2);
+	}
+
+}

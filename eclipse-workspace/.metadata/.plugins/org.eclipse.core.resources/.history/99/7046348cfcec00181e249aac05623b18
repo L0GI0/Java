@@ -1,0 +1,8 @@
+public class ThrowingSimpleException {
+
+  public static void main (String args[])  { // Can you remove "throws Exception"?
+
+    throw new SimpleException("Testing throwing Exception");
+  }
+
+}

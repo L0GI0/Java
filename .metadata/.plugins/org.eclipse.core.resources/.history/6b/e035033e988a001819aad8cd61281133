@@ -1,0 +1,12 @@
+import java.util.Scanner;
+public class TestArea {
+
+	public static void main(String[] args) {
+		String s = "Michael Pabjan";
+		int k = s.indexOf(" ");
+		String firstName = s.substring(0, k);
+		String lastName = s.substring(k+1);
+		System.out.println(firstName + " " + lastName);
+	}
+
+}

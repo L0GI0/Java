@@ -1,0 +1,25 @@
+
+import java.text.DateFormat;
+import java.util.Date;
+
+public class Exercises {
+
+	public static void main(String[] args) {
+		
+			Date date1 = new Date();
+			System.out.println(date1);
+			int day = date1.getDay();
+			day++;
+			//System.out.println("Day of the week: " + day);
+			if(day == 6 || day == 7)
+				System.out.println("It is weekend");
+			else System.out.println("It is not the weekend ");
+			DateFormat dateF;
+			dateF = new DateFormat();
+			
+			
+			
+			
+	}
+
+}

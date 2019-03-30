@@ -1,0 +1,19 @@
+
+public class CreatingMultipleObjectsDependingOnInputValue {
+
+	class exerciseClass{
+		static final int count = 0;
+		};
+		
+	
+	public static void main(String[] args) {
+		
+		
+		int numberOfObjects = Integer.parseInt(args[2]);
+		int i;
+		for(i = 2; i < Integer.parseInt(args[2]); i++;
+			
+	}
+}
+	
+	

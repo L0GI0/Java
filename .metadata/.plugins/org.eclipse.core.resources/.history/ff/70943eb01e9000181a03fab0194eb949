@@ -1,0 +1,14 @@
+
+public class TestStackOfIntegers {
+
+	public static void main(String[] args) {
+			StackOfIntegers stac = new StackOfIntegers();
+			
+			for (int i = 0; i < 10; i++)
+				stack.push(i);
+			
+			while(!stack.empty())
+				Stack.out.print(stack.pop() + " ");
+	}
+
+}

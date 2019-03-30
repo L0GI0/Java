@@ -1,0 +1,9 @@
+INDEX VERSION 1.131+/home/logio/Codes/Java/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core
+1611421191.index
+646308851.index
+468581639.index
+2729618203.index
+3811707969.index
+872055200.index
+1561884332.index
+2004566974.index

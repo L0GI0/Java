@@ -1,0 +1,10 @@
+
+public class GuessBirthday {
+	public static void main(String[] agrs) {
+		String set1 = 
+			" 1  3  5  7\n" + 
+			" 9 11 13 15\n" + 
+			"17 19 21 13\n" + 
+			"25 27 29 31";
+	}
+}
